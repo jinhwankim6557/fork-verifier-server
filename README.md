@@ -4,6 +4,9 @@ Verifier Server
 Welcome to the Verifier Server Repository. <br>
 This repository contains the source code, documentation, and related resources for the Verifier Server.
 
+##OpenDID Demonstration Videos
+To watch our demonstration videos of the OpenDID system in action, please visit our [Demo Repository](https://github.com/OmniOneID/did-demo-server). These videos showcase key features including user registration, VC issuance, and VP submission processes.
+
 ## Folder Structure
 Overview of the major folders and documents in the project directory:
 
